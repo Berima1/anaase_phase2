@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/
+.chroma/
+faiss.index
+node_modules/
+.next/
+*.zip

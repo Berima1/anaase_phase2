@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+requests
+scikit-learn
+networkx
+chromadb
+sentence-transformers
+faiss-cpu
+moviepy
+pillow
+gTTS
+scrapy
+scrapy-playwright
